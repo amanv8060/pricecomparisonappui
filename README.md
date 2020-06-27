@@ -1,6 +1,6 @@
 # pricecomparisonappui
 
-My ui for interview
+My ui for Codepth interview
 
 ## Getting Started
 
